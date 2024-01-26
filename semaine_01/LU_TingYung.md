@@ -6,6 +6,8 @@
 
 Je suis particulièrement intéressé à la musique et design des jeux-vidéos. 
 Je suis très absorbé dans les mondes crée par le studio Fromsoftware qui a crée des jeux acclamés comme Dark Souls.
-L'intention artistique mis dans ces oeuvres sont très 
+L'intention artistique mis dans ces oeuvres sont très inspirants.
+
+À consulter ici:
 
 <https://www.youtube.com/watch?v=o1780AqAa20>
