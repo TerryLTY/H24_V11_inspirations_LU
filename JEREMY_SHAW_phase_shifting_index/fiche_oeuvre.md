@@ -5,7 +5,7 @@ La Fonderie Darling
 
 ![image](media/affiche_phase_shifting_index.jpeg)
 
-Source: La Fonderie Darling
+Source: macm.org
 
 ### Lieu de mise en exposition
 La Fonderie Darling
