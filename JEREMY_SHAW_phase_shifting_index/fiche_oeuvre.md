@@ -53,14 +53,27 @@ banc
 speakers pendus
 
 ### Composantes et techniques	
-
+Jeremy Shaw semble avoir filmé tout les scenes en meme temps à cause de la synchronisation et des personnes qui changeaient d'écran à la fin de l'exposition.
+Si ce n'est pas le cas, j'imagine qu'il les ont filmés dans des instances différentes mais s'est servi du chaos visuel pour faire passer son montage.
 
 ### Éléments nécessaires à la mise en exposition	
-
+-tapis
+-7 écrans
+-salle spacieux
+-haut-parleurs suspendus
+-cables
+-bancs
+-estrades
 
 ### Expérience vécue	
 Les participants sont invités à ne pas rester sur les estrades mais plutôt de ce déplacer. Il y a des bancs devant chaque écran pour nous inciter à prendre le temps de payer attention à chaque écran et mieux entendre le son qui est fourni par les haut parleurs suspendu juste au-dessus de ceci.
 Les participants sont ensuite invités a rester aux estrades pour avoir un vu complet de tout les écrans afin de remarquer des détails. 
 
-Références:
+### Ce qui m'a plus
+
+
+### Éléments que j'ai moin apprécié
+
+### Références:
+<https://macm.org/expositions/jeremy-shaw/>
 
