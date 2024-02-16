@@ -10,9 +10,9 @@ Source: La Fonderie Darling
 ### Lieu de mise en exposition
 La Fonderie Darling
 
-![image](https://github.com/TerryLTY/H24_V11_inspirations_LU/assets/143763387/2c1900c4-d78a-40f0-96be-07708603e41e)
+![image](media/fonderie_darling.jpg)
 
-Source: followartwithus.com
+Source: fonderiedarling.org
 
 ### Type d'exposition
 Temporaire (12 décembre 2023 - 25 février 2024)
@@ -72,8 +72,10 @@ Les participants sont ensuite invités a rester aux estrades pour avoir un vu co
 ### Ce qui m'a plus
 
 
-### Éléments que j'ai moin apprécié
+### Éléments que j'ai moins apprécié
+
 
 ### Références:
 <https://macm.org/expositions/jeremy-shaw/>
+<https://fonderiedarling.org/en/mandate>
 
