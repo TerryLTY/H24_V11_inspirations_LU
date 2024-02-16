@@ -44,7 +44,7 @@ Source: Alex De Brabant
 Phase Shifting Index par Jeremy Shaw est un oeuvre immersif qui explore les themes d'ascension à un état psychédelique. 
 L'oeuvre contient 7 écrans montrant des personnes qui effectuent chacun des styles de danses différents dans une période de temps différente.
 L'oeuvre finit en synchronisant tout les ecrans et melanges les elements avec du editing pour créer une expérience surréel.
-![image](media/ecrans.png)![image](media/ecrans_02.png)
+![image](media/ecrans_02.png)
 
 
 ### Type d'installation
@@ -59,6 +59,7 @@ En rentrant à la pièce on voit les écrans de numéro impair placés en avant 
 ### Composantes et techniques	
 Jeremy Shaw semble avoir filmé tout les scenes en meme temps à cause de la synchronisation et des personnes qui changeaient d'écran à la fin de l'exposition.
 Si ce n'est pas le cas, j'imagine qu'il les ont filmés dans des instances différentes mais s'est servi du chaos visuel pour faire passer son montage.
+![image](media/ecrans_03.png)
 
 ### Éléments nécessaires à la mise en exposition	
 - tapis
@@ -72,6 +73,7 @@ Si ce n'est pas le cas, j'imagine qu'il les ont filmés dans des instances diff�
 ### Expérience vécue	
 Les participants sont invités à ne pas rester sur les estrades mais plutôt de ce déplacer. Il y a des bancs devant chaque écran pour nous inciter à prendre le temps de payer attention à chaque écran et mieux entendre le son qui est fourni par les haut parleurs suspendu juste au-dessus de ceci.
 Les participants sont ensuite invités a rester aux estrades pour avoir un vu complet de tout les écrans afin de remarquer des détails. 
+![image](media/ecrans.png)
 
 ### Ce qui m'a plus
 
