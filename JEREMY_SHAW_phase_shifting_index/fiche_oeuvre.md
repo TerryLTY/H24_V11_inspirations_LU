@@ -5,36 +5,36 @@ La Fonderie Darling
 
 ![image](media/affiche_phase_shifting_index.jpeg)
 Source: macm.org
-
+ 
 
 ### Lieu de mise en exposition
 La Fonderie Darling
 
 ![image](media/fonderie_darling.jpg)
 Source: fonderiedarling.org
-
+ 
 
 ### Type d'exposition
 Temporaire (12 décembre 2023 - 25 février 2024)
-
+ 
 
 ### Date de votre visite
 2 février 2024
-
+ 
 
 ### Titre de l'oeuvre
 Phase Shifting Index
 
 ![photo](media/exposition_phase_shifting_index.jpg)
 Source: Timo Ohler
-
+ 
 
 ### Nom de l'artiste
 Jeremy Shaw
 
 ![image](media/jeremy_shaw.jpg)
 Source: Alex De Brabant
-
+ 
 
 ### Année de réalisation	
 2020
@@ -44,6 +44,7 @@ Source: Alex De Brabant
 Phase Shifting Index par Jeremy Shaw est un oeuvre immersif qui explore les themes d'ascension à un état psychédelique. 
 L'oeuvre contient 7 écrans montrant des personnes qui effectuent chacun des styles de danses différents dans une période de temps différente.
 L'oeuvre finit en synchronisant tout les ecrans et melanges les elements avec du editing pour créer une expérience surréel.
+![image](media/ecrans.png)![image](media/ecrans_02.png)
 
 
 ### Type d'installation
