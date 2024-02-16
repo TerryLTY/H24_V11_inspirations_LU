@@ -15,7 +15,7 @@ La Fonderie Darling
 Source: followartwithus.com
 
 ### Type d'exposition
-Temporaire (12 décembre 2023 - 25 février 2024
+Temporaire (12 décembre 2023 - 25 février 2024)
 
 ### Date de votre visite
 2 février 2024
