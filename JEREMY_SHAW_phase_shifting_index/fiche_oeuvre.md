@@ -51,7 +51,8 @@ Immersive
 
 
 ### Mise en espace	
-![image](media/plan_de_piece.png)
+![image](media/plan_de_la_piece.png)
+En rentrant à la pièce on voit les écrans de numéro impair placés en avant et les écrans de numéro pair derrière. Au long du mur de l'entré réside un longue estrade pour s'asseoir. De plus, il y a des bancs devant les écrans et des hauts parleurs au dessus de ces bancs.
 
 
 ### Composantes et techniques	
