@@ -3,7 +3,7 @@
 ### Nom de l'exposition ou de l'événement
 La Fonderie Darling
 
-![image](https://github.com/TerryLTY/H24_V11_inspirations_LU/assets/143763387/0e841e5e-ac35-48a4-a63f-831842331262)
+![image](media/affiche_phase_shifting_index.jpeg)
 
 Source: La Fonderie Darling
 
