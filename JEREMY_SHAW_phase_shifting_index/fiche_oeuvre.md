@@ -23,7 +23,7 @@ Temporaire (12 décembre 2023 - 25 février 2024)
 ### Titre de l'oeuvre
 Phase Shifting Index
 
-![photo](https://github.com/TerryLTY/H24_V11_inspirations_LU/assets/143763387/3db4085a-1522-4ec5-8256-f2ea3b688e72)
+![photo](media/exposition_phase_shifting_index.jpg)
 
 Source: Timo Ohler
 
