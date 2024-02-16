@@ -30,7 +30,7 @@ Source: Timo Ohler
 ### Nom de l'artiste
 Jeremy Shaw
 
-![image](https://github.com/TerryLTY/H24_V11_inspirations_LU/assets/143763387/4be15582-fdc7-4d1d-b3fd-94155e679664)
+![image](media/jeremy_shaw.jpg)
 
 Source: Alex De Brabant
 
