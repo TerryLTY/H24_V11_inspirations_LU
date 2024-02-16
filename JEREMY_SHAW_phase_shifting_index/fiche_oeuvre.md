@@ -70,6 +70,7 @@ Si ce n'est pas le cas, j'imagine qu'il les ont filmés dans des instances diff�
 - bancs
 - estrades
 ![photo](media/exposition_phase_shifting_index_02.jpg)
+souce: macm.org
 
 ### Expérience vécue	
 Les participants sont invités à ne pas rester sur les estrades mais plutôt de ce déplacer. Il y a des bancs devant chaque écran pour nous inciter à prendre le temps de payer attention à chaque écran et mieux entendre le son qui est fourni par les haut parleurs suspendu juste au-dessus de ceci.
