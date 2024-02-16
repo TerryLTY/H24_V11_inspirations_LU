@@ -4,66 +4,68 @@
 La Fonderie Darling
 
 ![image](media/affiche_phase_shifting_index.jpeg)
-
 Source: macm.org
+
 
 ### Lieu de mise en exposition
 La Fonderie Darling
 
 ![image](media/fonderie_darling.jpg)
-
 Source: fonderiedarling.org
+
 
 ### Type d'exposition
 Temporaire (12 décembre 2023 - 25 février 2024)
 
+
 ### Date de votre visite
 2 février 2024
+
 
 ### Titre de l'oeuvre
 Phase Shifting Index
 
 ![photo](media/exposition_phase_shifting_index.jpg)
-
 Source: Timo Ohler
+
 
 ### Nom de l'artiste
 Jeremy Shaw
 
 ![image](media/jeremy_shaw.jpg)
-
 Source: Alex De Brabant
+
 
 ### Année de réalisation	
 2020
+
 
 ### Description de l'oeuvre	
 Phase Shifting Index par Jeremy Shaw est un oeuvre immersif qui explore les themes d'ascension à un état psychédelique. 
 L'oeuvre contient 7 écrans montrant des personnes qui effectuent chacun des styles de danses différents dans une période de temps différente.
 L'oeuvre finit en synchronisant tout les ecrans et melanges les elements avec du editing pour créer une expérience surréel.
 
+
 ### Type d'installation
 Immersive
 
+
 ### Mise en espace	
-7 écrans
-estrades et sol poilu
-salle assez spacieux
-banc
-speakers pendus
+
+
 
 ### Composantes et techniques	
 Jeremy Shaw semble avoir filmé tout les scenes en meme temps à cause de la synchronisation et des personnes qui changeaient d'écran à la fin de l'exposition.
 Si ce n'est pas le cas, j'imagine qu'il les ont filmés dans des instances différentes mais s'est servi du chaos visuel pour faire passer son montage.
 
 ### Éléments nécessaires à la mise en exposition	
--tapis
--7 écrans
--salle spacieux
--haut-parleurs suspendus
--cables
--bancs
--estrades
+- tapis
+- 7 écrans
+- salle spacieux
+- haut-parleurs suspendus
+- cables
+- bancs
+- estrades
 
 ### Expérience vécue	
 Les participants sont invités à ne pas rester sur les estrades mais plutôt de ce déplacer. Il y a des bancs devant chaque écran pour nous inciter à prendre le temps de payer attention à chaque écran et mieux entendre le son qui est fourni par les haut parleurs suspendu juste au-dessus de ceci.
