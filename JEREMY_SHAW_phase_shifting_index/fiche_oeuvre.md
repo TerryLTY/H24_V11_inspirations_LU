@@ -51,7 +51,7 @@ Immersive
 
 
 ### Mise en espace	
-
+![image](media/plan_de_piece.png)
 
 
 ### Composantes et techniques	
