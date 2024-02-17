@@ -78,10 +78,10 @@ Les participants sont ensuite invités a rester aux estrades pour avoir un vu co
 ![image](media/ecran_01.png)
 
 ### Ce qui m'a plus
-
+J'ai bien apprecie la derniere partie de l'oeuvre.
 
 ### Éléments que j'ai moins apprécié
-
+Je pense que l'utilisation de 7 ecrans n'est pas si interessants et l'ambiguite de l'histoire moins pertinent. J'ai plus aime lire sur l'histoire que le voir. De plus, le debut me paraissait assez long et plate.
 
 ### Références:
 <https://macm.org/expositions/jeremy-shaw/>
