@@ -3,6 +3,12 @@
 Crescentia est un projet dirigé par les étudiants du programme TIM (Technique Integration Multimédia). Ce projet comporte de oeuvres d'expositions. 3 de ces oeuvres utilise de la technologie kinect (technologie projection laser rayon rouge).
 ![image](media/visuelle_crescentia.png)
 
+### Info de visite
+- Date de visite: 20 fevrier (1re)
+- Location: grand studio et petit studio
+- Année de réalisation: 2024
+
+
 # Rhizomatique
 Membres:
 Jolyanne Desjardins
@@ -40,9 +46,12 @@ Vincent Desjardins
 
 # Canevas Cosmique
 Membres:
-Jacob Alarie-BrousseauÉtienne Charron
+Jacob Alarie-Brousseau
+Étienne Charron
 Jérémy Cholette
 Quoc Huy Do
 Mikaël Tourangeau
 ![image](media/visuel_canevas_cosmique.png)
 
+Sources: <br>
+TIM Montmorency - <https://tim-montmorency.com/2024/>
