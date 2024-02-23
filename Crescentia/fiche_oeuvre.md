@@ -28,7 +28,7 @@ William Rathier Mailly
 Gabriel Clerval
 Nicolas St-Martin
 Antoine Dion
-![image](media/visuel_effet_papillon.png)
+![image](media/visuel_kigo.png)
 
 # Sonalux
 Membres:
@@ -36,7 +36,7 @@ Antoine Haddad
 Camélie Laprise
 Ghita Alaoui
 Vincent Desjardins
-![image](media/visuel_effet_papillon.png)
+![image](media/visuel_sonalux.png)
 
 # Canevas Cosmique
 Membres:
@@ -44,5 +44,5 @@ Jacob Alarie-BrousseauÉtienne Charron
 Jérémy Cholette
 Quoc Huy Do
 Mikaël Tourangeau
-![image](media/visuel_effet_papillon.png)
+![image](media/visuel_canevas_cosmique.png)
 
