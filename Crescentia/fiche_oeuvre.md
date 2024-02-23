@@ -19,6 +19,7 @@ William MorelWilliam Morel
 Alexia (Ryan) Papanikolaou
 Viktor Zhuralev
 Jasmine Lapierre
+![image](media/visuel_effet_papillon.png)
 
 # KIGO
 Membres:
@@ -27,6 +28,7 @@ William Rathier Mailly
 Gabriel Clerval
 Nicolas St-Martin
 Antoine Dion
+![image](media/visuel_effet_papillon.png)
 
 # Sonalux
 Membres:
@@ -34,6 +36,7 @@ Antoine Haddad
 Camélie Laprise
 Ghita Alaoui
 Vincent Desjardins
+![image](media/visuel_effet_papillon.png)
 
 # Canevas Cosmique
 Membres:
@@ -41,3 +44,5 @@ Jacob Alarie-BrousseauÉtienne Charron
 Jérémy Cholette
 Quoc Huy Do
 Mikaël Tourangeau
+![image](media/visuel_effet_papillon.png)
+
