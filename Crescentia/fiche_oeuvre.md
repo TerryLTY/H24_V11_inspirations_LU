@@ -11,45 +11,45 @@ Crescentia est un projet dirigé par les étudiants du programme TIM (Technique 
 
 # Rhizomatique
 Membres:
-Jolyanne Desjardins
-MaÏka Désy
-Laurie Houde
-Felix Testa Radovanovic
+Jolyanne Desjardins, 
+MaÏka Désy, 
+Laurie Houde, 
+Felix Testa Radovanovic, 
 ![image](media/visuel_rhizomatique.png)
 
 # Effet Papillon
 Membres:
-Raphaël Dumont
-Alexis Bolduc
-William Morel
-Alexia (Ryan) Papanikolaou
-Viktor Zhuralev
+Raphaël Dumont, 
+Alexis Bolduc, 
+William Morel, 
+Alexia (Ryan) Papanikolaou, 
+Viktor Zhuralev, 
 Jasmine Lapierre
 ![image](media/visuel_effet_papillon.png)
 
 # KIGO
 Membres:
-Érick Ouellette
-William Rathier Mailly
-Gabriel Clerval
-Nicolas St-Martin
+Érick Ouellette, 
+William Rathier Mailly, 
+Gabriel Clerval, 
+Nicolas St-Martin, 
 Antoine Dion
 ![image](media/visuel_kigo.png)
 
 # Sonalux
 Membres:
-Antoine Haddad
-Camélie Laprise
-Ghita Alaoui
-Vincent Desjardins
+Antoine Haddad, 
+Camélie Laprise, 
+Ghita Alaoui, 
+Vincent Desjardins, 
 ![image](media/visuel_sonalux.png)
 
 # Canevas Cosmique
 Membres:
-Jacob Alarie-Brousseau
-Étienne Charron
-Jérémy Cholette
-Quoc Huy Do
+Jacob Alarie-Brousseau, 
+Étienne Charron, 
+Jérémy Cholette, 
+Quoc Huy Do, 
 Mikaël Tourangeau
 ![image](media/visuel_canevas_cosmique.png)
 
