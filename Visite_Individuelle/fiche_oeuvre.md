@@ -11,7 +11,7 @@ Age of Union
 ## Type d'exposition
 Permanent
 
-## Date de votre visite
+## Date de visite
 2 mars 2024
  
 ## Titre de l'oeuvre
@@ -33,7 +33,7 @@ Immersive
 ![image](media/)
 
 ## Mise en espace
-![image](media/)
+![image](media/plan_earth_room.png)
 
 ## Composantes et techniques	
 ![image](media/)
