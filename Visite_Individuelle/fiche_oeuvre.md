@@ -6,7 +6,7 @@ Earth Room
 
 ## Lieu de mise en exposition
 Age of Union
-![image](media/)
+![image](media/batiment_age_of_union.jpg)
 
 ## Type d'exposition
 Permanent
