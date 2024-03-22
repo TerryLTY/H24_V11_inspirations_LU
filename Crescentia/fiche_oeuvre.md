@@ -21,7 +21,7 @@ Felix Testa Radovanovic
 Membres:
 Raphaël Dumont
 Alexis Bolduc
-William MorelWilliam Morel
+William Morel
 Alexia (Ryan) Papanikolaou
 Viktor Zhuralev
 Jasmine Lapierre
