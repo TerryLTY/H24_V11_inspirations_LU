@@ -11,7 +11,7 @@ Crescentia est un projet dirigé par les étudiants du programme TIM (Technique 
 - Type d'installation: interactive
 
 ### Mise en espace
-![image](media/)
+![image](media/plan_studio_complet.png)
 
 # Rhizomatique
 Membres: Jolyanne Desjardins, MaÏka Désy, Laurie Houde, Felix Testa Radovanovic, 
