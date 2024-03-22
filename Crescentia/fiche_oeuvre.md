@@ -15,7 +15,7 @@ Jolyanne Desjardins
 MaÏka Désy
 Laurie Houde
 Felix Testa Radovanovic
-
+![image](media/visuel_effet_papillon.png)
 
 # Effet Papillon
 Membres:
