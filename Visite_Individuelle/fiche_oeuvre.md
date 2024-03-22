@@ -2,11 +2,11 @@
 
 ## Nom de l'exposition ou de l'événement
 Earth Room
-![image](media/)
+![image](media/affiche_earth_room.jpg)
 
 ## Lieu de mise en exposition
 Age of Union
-![image](media/batiment_age_of_union.jpg)
+![image](media/)
 
 ## Type d'exposition
 Permanent
@@ -16,7 +16,7 @@ Permanent
  
 ## Titre de l'oeuvre
 Earth Room
-![photo](media/)
+![image](media/)
  
 ## Nom de l'artiste
  Kelly Nunes, Nicolas Fonseca
