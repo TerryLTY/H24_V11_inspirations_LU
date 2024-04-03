@@ -38,8 +38,6 @@ J'ai plus pris des photos que j'ai intéragis avec les oeuvres mais je les trouv
 
 ![image](media/experience_vecue.png)
 
-### Composantes et techniques
-Utilisations de logiciels pour faire
 
 # Rhizomatique
 Membres: Jolyanne Desjardins, MaÏka Désy, Laurie Houde, Felix Testa Radovanovic, 
@@ -51,6 +49,9 @@ source: <https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.ht
 
 
 ![image](media/vue_rhizomatique.png)
+
+**Composantes et techniques:**
+Les artistes se sont servi de la kinect et du tissu pour envoyer de l'information au programme. La superficie du contact sur le tissu sert pour afficher les videos (souvenirs)
 
 **Éléments nécessaires à la mise en exposition:**
 - Maille en tissu
@@ -81,6 +82,7 @@ source: <https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/index.
 ![image](media/vue_effet_papillon.png)
 
 **Composantes et techniques:**
+Les artistes ont mis des contraptions qui doivent être activé dans un ordre. Ces contraptoins envoient des signaux qui activent affichage de l'arbre dans les écrans et les sons. 
 
 **Éléments nécessaires à la mise en exposition:**
 - Lumières LED
@@ -112,6 +114,7 @@ source: <https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html>
 ![image](media/vue_kigo.png)
 
 **Composantes et techniques:**
+Les artistes se servent de la kinect pour détecter les mouvements du joueur qui serait transmis dans le programme (Unity) qui mets les points de mouvements sur le personnage du jeu. 
 
 **Éléments nécessaires à la mise en exposition:**
 - Rubans adhésifs
@@ -141,6 +144,7 @@ source: <https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html>
 ![image](media/vue_sonalux.png)
 
 **Composantes et techniques:** <br>
+Les artistes ont mis des boutons pour modifier les paramêtres de l'affichage dans le programme qui émettra des sons dépendemment des configurations.
 
 **Éléments nécessaires à la mise en exposition:**
 - Table
@@ -172,6 +176,7 @@ source: <https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/inde
 ![image](media/vue_canevas_cosmique.png)
 
 **Composantes et techniques:** <br>
+Les artistes se servent de la kinect qui détectent des codes en dessous des statues pour connaitre leur identité et leurs positions.
 
 **Éléments nécessaires à la mise en exposition:**
 - Imprimante 3D
@@ -189,5 +194,10 @@ source: <https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/inde
 ![image](media/vue_02_canevas_cosmique.png)
 
 
-Sources: <br>
-TIM Montmorency - <https://tim-montmorency.com/2024/>
+## Références
+<https://tim-montmorency.com/2024/> <br>
+<https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html> <br>
+<https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/index.html> <br>
+<https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html> <br>
+<https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html> <br>
+<https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html>
