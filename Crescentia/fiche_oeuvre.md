@@ -65,6 +65,10 @@ source: <https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.ht
 - Exécution décevant (Tissu ne sert pas a grand chose à mon avis)
 - Cyclorama mal utilisé
 
+  
+![image](media/vue_02_rhizomatique.png)
+
+
 # Effet Papillon
 Membres: Raphaël Dumont,  Alexis Bolduc,  William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuralev, Jasmine Lapierre
 ![image](media/visuel_effet_papillon.png)
@@ -92,6 +96,10 @@ source: <https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/index.
 **Ce que j'ai pas aimé 👎:** <br>
 - Salle d'exposition étroit et pas spacieux
 
+
+![image](media/vue_02_effet_papillon.png)
+
+
 # KIGO
 Membres: Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin, Antoine Dion
 ![image](media/visuel_kigo.png)
@@ -116,6 +124,10 @@ source: <https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html>
 
 **Ce que j'ai pas aimé 👎:** <br>
 - Difficulté du jeu monte trop vite
+
+
+![image](media/vue_02_kigo.png)
+
 
 # Sonalux
 Membres: Antoine Haddad, Camélie Laprise, Ghita Alaoui, Vincent Desjardins, 
@@ -142,6 +154,10 @@ source: <https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html>
 
 **Ce que j'ai pas aimé 👎:** <br>
 - Manque d'utilité pour les batons lumineux
+  
+
+![image](media/vue_02_sonalux.png)
+
 
 # Canevas Cosmique
 Membres: Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do, Mikaël Tourangeau
@@ -168,6 +184,10 @@ source: <https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/inde
 
 **Ce que j'ai pas aimé 👎:**<br>
 - Fils et kinect sont mal cachés
+
+
+![image](media/vue_02_canevas_cosmique.png)
+
 
 Sources: <br>
 TIM Montmorency - <https://tim-montmorency.com/2024/>
