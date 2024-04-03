@@ -23,7 +23,11 @@ Grand studio (pièce à gauche) et Petit studio (pièce à droite)
 
 ### Élement nécessaire à la mise en exposition général
 Tout les oeuvres du projet Crescentia utilisent des projecteurs.
-![image](media/visuelle_crescentia.png)
+![image](media/projecteurs.png)
+
+### Expérience vécue
+L'expérience que j'ai vecu à Crescentia était pas mal plaisant. Lors de la visite, les artistes étaient accueillant, patient et répondais au questions que je les posais. Quelques un m'ont même donné des conseils pour des futurs projets. 
+J'ai plus pris des photos que j'ai intéragis avec les oeuvres mais je les trouvais intéressants et impréssionants.
 
 # Rhizomatique
 Membres: Jolyanne Desjardins, MaÏka Désy, Laurie Houde, Felix Testa Radovanovic, 
@@ -37,13 +41,10 @@ source: <https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.ht
 **Composants et techniques:**
 
 **Éléments nécessaires à la mise en exposition:**
-- Projecteurs
 - Maille en tissu
 - Table
 - Cyclorama
 - Kinect
-
-**Expérience vécue:**
 
 **Ce que j'ai aimé 👍:**
 
@@ -62,13 +63,10 @@ source: <https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/index.
 **Composants et techniques:**
 
 **Éléments nécessaires à la mise en exposition:**
-- Projecteurs
 - lumières LED
 - Écrans
 - Couverture de mur
 - Contraptions d'activation
-  
-**Expérience vécue:**
 
 **Ce que j'ai aimé 👍:**
 
@@ -87,11 +85,8 @@ source: <https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html>
 **Composants et techniques:**
 
 **Éléments nécessaires à la mise en exposition:**
-- Projecteurs
 - Rubans adhésifs
 - Kinect
-  
-**Expérience vécue:**
 
 **Ce que j'ai aimé 👍:**
 
@@ -110,13 +105,10 @@ source: <https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html>
 **Composants et techniques:**
 
 **Éléments nécessaires à la mise en exposition:**
-- Projecteurs
 - Table
 - Boutons et batons lumineux
 - Murs
 - Écouteurs
-  
-**Expérience vécue:**
 
 **Ce que j'ai aimé 👍:**
 
@@ -134,12 +126,9 @@ source: <https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/inde
 **Composants et techniques:**
 
 **Éléments nécessaires à la mise en exposition:**
-- Projecteurs
 - Imprimante 3D
 - Table et écran
 - Kinect
-  
-**Expérience vécue:**
 
 **Ce que j'ai aimé 👍:**
 
