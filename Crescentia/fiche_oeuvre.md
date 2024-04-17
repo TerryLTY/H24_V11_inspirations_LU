@@ -14,7 +14,6 @@ source: <https://tim-montmorency.com/2024/>
 - **Fonction du dispositif multimedia:**
 
   
-![video](media/)
 
 ### Mise en espace
 Grand studio (pièce à gauche) et Petit studio (pièce à droite)
@@ -193,6 +192,24 @@ Les artistes se servent de la kinect qui détectent des codes en dessous des sta
 
 ![image](media/vue_02_canevas_cosmique.png)
 
+
+#Extras
+
+## 3 Programmes essentiels pour réaliser ces projets
+- Intéractivité ludique
+- Installation Multimédia
+- Conception d'une expérience multimédia
+
+## Technique
+La kinect, originellement développé par Microsoft pour la console de jeu Xbox, est utilisé pour plusieurs oeuvres de Crescentia. Elle projette des points et utilise un capteur pour détecter la profondeur des personnes ou des objets devant. Cette information est ensuite utilisé dans des programmes pour savoir la position qui permet d'interagir avec l'oeuvre.
+
+
+## Rang des oeuvres
+1. Canevas Cosmique: Bonne intéractivité, figurines, style artistique
+2. Effet Papillon: Concept ingénieux, ambiance intéressante
+3. Kigo: Esthétique intéressant, très intéractif
+4. Sonalux: Bon ambiance
+5. Rhizomatique: Exécution de l'idée décevant, usage unique de mèche
 
 ## Références
 <https://tim-montmorency.com/2024/> <br>
