@@ -68,7 +68,8 @@ Cet oeuvre se sert de deux écrans. L'écran tactile prend les informations donn
 ## Expérience vécue
 Le visiteur est attendu à jouer le jeu en intéragissant avec l'écran et a essayer plusieurs combinaisons pour avoir une voiture qui conduit idéalement. 
 J'ai trouvé cet oeuvre plus amusant que d'autres mais ce n'était rien de spectaculaire.
-![video](media/)
+<https://github.com/TerryLTY/H24_V11_inspirations_LU/assets/143763387/1fbf570e-edda-4b44-8d90-fd5ba5b7cdd5>
+
 
 
 ## Ce qui m'a plus
