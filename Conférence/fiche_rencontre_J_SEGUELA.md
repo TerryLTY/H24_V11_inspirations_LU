@@ -8,3 +8,5 @@ Dérriere les merveilles de l'oeuvre, elle nous montre l'arrière scène qui a l
 L'improvisation qu'ils ont fait pour parvenir leurs défis est digne d'un sentiment d'accomplissement. 
 
 J'ai bien aimé la conférence parce qu'elle nous montre la réalité d'un métier sans un filtre. Sa nous montre que malgré qu'ils soient dans un millieu professionnel, à la fin de la journée, ils sont tous humains et que nous n'avons pas besoin d'être parfait pour réaliser des projets. 
+
+![image](media/translation_stream.jpg)
