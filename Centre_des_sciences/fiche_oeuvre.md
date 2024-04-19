@@ -15,12 +15,12 @@ Permanente, intérieure
 
 
 ## Date de visite
-2 mars 2024
+5 avril 2024
 
  
 ## Titre de l'oeuvre
-Cet oeuvre n'a pas de titre de ma connaissance.
-![image](media/)
+Centre des sciences (Oeuvre conduite IA)
+![image](media/centre_des_sciences)
 
  
 ## Nom des artistes
