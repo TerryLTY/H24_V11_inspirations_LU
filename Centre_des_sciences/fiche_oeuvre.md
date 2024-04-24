@@ -1,12 +1,13 @@
-# Centre des sciences
+e# Centre des sciences
 
 ## Nom de l'exposition ou de l'événement
 Centre des sciences
-![image](media/)
+![image](media/centre_des_sciences.jpg)
+source: <https://www.centredessciencesdemontreal.com/expositions>
 
 
 ## Lieu de mise en exposition
-Centre des sciences
+Centre des sciences à Montréal
 ![image](media/devant_loeuvre.png)
 
 
@@ -44,17 +45,17 @@ Interactive
 
 ## Fonction du dispositif multimédia
 Support pédagogique
-![image](media/ecran_parametre.png)
+![image](media/ecran_parametres.png)
 
 
 ## Mise en espace
 Cet oeuvre comporte deux écrans qui se situent dans une petite salle noire.
-![image](media/plan_earth_room.png)
+(Voir démo plus bas)
 
 
 ## Composantes et techniques	
 Cet oeuvre se sert de deux écrans. L'écran tactile prend les informations donné pour générer une simulation qui serait affiché sur le grand écran.
-![image](media/)
+![image](media/ecran_tortue.png)
 
 
 ## Éléments nécessaires à la mise en exposition	
@@ -62,13 +63,12 @@ Cet oeuvre se sert de deux écrans. L'écran tactile prend les informations donn
 - Salle sombre
 - fils
 - cache fils
-![photo](media/)
 
 
 ## Expérience vécue
 Le visiteur est attendu à jouer le jeu en intéragissant avec l'écran et a essayer plusieurs combinaisons pour avoir une voiture qui conduit idéalement. 
 J'ai trouvé cet oeuvre plus amusant que d'autres mais ce n'était rien de spectaculaire.
-<https://github.com/TerryLTY/H24_V11_inspirations_LU/assets/143763387/1fbf570e-edda-4b44-8d90-fd5ba5b7cdd5>
+démo: <https://github.com/TerryLTY/H24_V11_inspirations_LU/assets/143763387/1fbf570e-edda-4b44-8d90-fd5ba5b7cdd5>
 
 
 
@@ -80,4 +80,5 @@ J'ai aimé l'interactivité et le divertissement fourni de cet expérience.
 Je pense que le programme peu être plus profond et mieux développé pour une expérience plus complête.
 
 
-## Références:
+## Références: 
+Centre des sciences - <https://www.centredessciencesdemontreal.com/expositions>
