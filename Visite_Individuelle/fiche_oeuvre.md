@@ -32,6 +32,10 @@ Earth Room est une chambre visant a simuler une foret. Il sert a invoquer des se
 Immersive
 ![image](media/)
 
+## Fonction du dispositif
+Scénographique
+![image](media/)
+
 ## Mise en espace
 ![image](media/plan_earth_room.png)
 
@@ -48,7 +52,7 @@ Immersive
 Le concept est intéressant et assez bien executé
 
 ## Éléments que j'ai moins apprécié
-Certains sièges étaient mal positionnés. J'avais des feuilles dans mon visages dans sur quelques sièges.
+Certains tabourets étaient mal positionnés. J'avais des feuilles dans mon visages dans sur quelques sièges.
 
 ## Références:
 <https://kellynunes.com/Earth-Room>
