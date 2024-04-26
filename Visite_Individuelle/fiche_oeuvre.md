@@ -45,7 +45,7 @@ Earth Room se situe dans une petite piece a Age of Union. La salle est ferme est
 - capteurs
 - lumieres LED
 - micros
-![image](media/microphone.jpg)
+![image](media/microphone.png)
 
 ## Éléments nécessaires à la mise en exposition
 - Morceaux de l'environnement (Roches, feuilles, plantes)
