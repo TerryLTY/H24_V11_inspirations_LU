@@ -54,6 +54,7 @@ Earth Room se situe dans une petite pièce à Age of Union. La salle est fermé 
 ## Expérience vécue
 Le visiteur est attendu à s'asseoir sur les tabourets et se reposer dans l'environnement. 
 C'est une expérience sereine. J'ai assez bien apprécié mon temps.
+Voir: <https://kellynunes.com/Earth-Room>
 
 ## Ce qui m'a plus
 Le concept est intéressant et bien exécuté. Ambiance apaisant et immersif.
@@ -63,5 +64,5 @@ Les matériels utilisés (papiers usé) donne un côté authentique à l'oeuvre.
 Certains tabourets étaient mal positionnés. J'avais des feuilles dans mon visage sur quelques sièges. Manque de confort pour une expérience "reposante". Emplacements moins évidents.
 
 ## Références:
-<https://kellynunes.com/Earth-Room>
+<https://kellynunes.com/Earth-Room> <br>
 <https://ageofunion.com/>
