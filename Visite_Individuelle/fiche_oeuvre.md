@@ -26,7 +26,7 @@ Earth Room
 
 ## Description de l'oeuvre
 Earth Room est une chambre visant a simuler une foret. Il sert a invoquer des sentiments de connection avec la nature et a reproduire un environnement calmant et relaxant pour nous détendre qui peut être thérapeutique. Pour faire cela elle incorpore des bruits de feuilles, de pluie et de tonnerre. Les sons sont diversifiés selon quel siège le visiteur décide de s'asseoir. Chaque siège (les cylindres) est assigné à un animal et en s'asseyant sur une siège nous permet de simuler l'expérience de l'animal.
-![image](media/)
+![image](media/vue_ensemble.jpg)
 
 ## Type d'installation
 Immersive
