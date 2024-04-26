@@ -1,7 +1,7 @@
 # Earth Room
 
 ## Nom de l'exposition ou de l'événement
-Earth Room
+**Earth Room**
 ![image](media/affiche_earth_room.jpg)
 
 ## Lieu de mise en exposition
@@ -15,7 +15,7 @@ Permanent
 2 mars 2024
  
 ## Titre de l'oeuvre
-Earth Room
+**Earth Room**
 ![image](media/vue_rose.png)
  
 ## Nom de l'artiste
