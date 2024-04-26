@@ -37,19 +37,27 @@ Scénographique
 ![image](media/)
 
 ## Mise en espace
+Earth Room se situe dans une petite piece a Age of Union. La salle est ferme est comprend une porte en miroir.
 ![image](media/plan_earth_room.png)
 
-## Composantes et techniques	
+## Composantes et techniques
+- capteurs
+- lumieres LED
+- micros
 ![image](media/)
 
-## Éléments nécessaires à la mise en exposition	
+## Éléments nécessaires à la mise en exposition
+- Morceaux de l'environnement (Roches, feuilles, plantes)
+- tabourets
 ![photo](media/)
 
 ## Expérience vécue
+Le visiteur est attendu a s'asseoir sur les tabourets et se sentir parti de l'environnement. 
+C'est une experience serene.
 ![image](media/)
 
 ## Ce qui m'a plus
-Le concept est intéressant et assez bien executé
+Le concept est intéressant et bien executé. Ambiance apaisant et immersif.
 
 ## Éléments que j'ai moins apprécié
 Certains tabourets étaient mal positionnés. J'avais des feuilles dans mon visages dans sur quelques sièges.
