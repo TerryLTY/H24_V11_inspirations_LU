@@ -35,7 +35,6 @@ Immersive
 
 ## Fonction du dispositif
 Scénographique
-![video](media/)
 
 ## Mise en espace
 Earth Room se situe dans une petite piece a Age of Union. La salle est ferme est comprend une porte en miroir.
@@ -55,13 +54,12 @@ Earth Room se situe dans une petite piece a Age of Union. La salle est ferme est
 ## Expérience vécue
 Le visiteur est attendu a s'asseoir sur les tabourets et se sentir parti de l'environnement. 
 C'est une experience serene.
-![video](media/)
 
 ## Ce qui m'a plus
 Le concept est intéressant et bien executé. Ambiance apaisant et immersif.
 
 ## Éléments que j'ai moins apprécié
-Certains tabourets étaient mal positionnés. J'avais des feuilles dans mon visages dans sur quelques sièges.
+Certains tabourets étaient mal positionnés. J'avais des feuilles dans mon visages dans sur quelques sièges. Manque de comfort pour une expérience "relaxante".
 
 ## Références:
 <https://kellynunes.com/Earth-Room>
