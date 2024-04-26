@@ -6,7 +6,7 @@ Earth Room
 
 ## Lieu de mise en exposition
 Age of Union
-![image](media/)
+![image](media/devant_age_of_union.png)
 
 ## Type d'exposition
 Permanent
@@ -16,7 +16,7 @@ Permanent
  
 ## Titre de l'oeuvre
 Earth Room
-![image](media/)
+![image](media/vue_rose.png)
  
 ## Nom de l'artiste
  Kelly Nunes, Nicolas Fonseca
@@ -30,11 +30,12 @@ Earth Room est une chambre visant a simuler une foret. Il sert a invoquer des se
 
 ## Type d'installation
 Immersive
-![image](media/)
+![image](media/vue_bleue.png)
+![image](media/dans_grotte.png)
 
 ## Fonction du dispositif
 Scénographique
-![image](media/)
+![video](media/)
 
 ## Mise en espace
 Earth Room se situe dans une petite piece a Age of Union. La salle est ferme est comprend une porte en miroir.
@@ -44,17 +45,17 @@ Earth Room se situe dans une petite piece a Age of Union. La salle est ferme est
 - capteurs
 - lumieres LED
 - micros
-![image](media/)
+![image](media/microphone.jpg)
 
 ## Éléments nécessaires à la mise en exposition
 - Morceaux de l'environnement (Roches, feuilles, plantes)
 - tabourets
-![photo](media/)
+![photo](media/capteur.png)
 
 ## Expérience vécue
 Le visiteur est attendu a s'asseoir sur les tabourets et se sentir parti de l'environnement. 
 C'est une experience serene.
-![image](media/)
+![video](media/)
 
 ## Ce qui m'a plus
 Le concept est intéressant et bien executé. Ambiance apaisant et immersif.
