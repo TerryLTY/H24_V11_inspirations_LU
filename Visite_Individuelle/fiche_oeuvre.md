@@ -25,7 +25,7 @@ Permanent
 2021
 
 ## Description de l'oeuvre
-Earth Room est une chambre visant a simuler une foret. Il sert a invoquer des sentiments de connection avec la nature et a reproduire un environnement calmant et relaxant pour nous détendre qui peut être thérapeutique. Pour faire cela elle incorpore des bruits de feuilles, de pluie et de tonnerre. Les sons sont diversifiés selon quel siège le visiteur décide de s'asseoir. Chaque siège (les cylindres) est assigné à un animal et en s'asseyant sur une siège nous permet de simuler l'expérience de l'animal.
+Earth Room est une chambre visant à simuler une forêt. Il sert à invoquer des sentiments de connexion avec la nature et à reproduire un environnement calmant et reposant pour nous détendre qui peut être thérapeutique. Pour faire cela elle incorpore des bruits de feuilles, de pluie et de tonnerre. Les sons sont diversifiés la position du visiteur. Chaque siège (les tabourerts) est assigné à un animal et en s'asseyant sur un siège nous permet de simuler l'expérience de l'animal. L'environnement est fabriqué de papier usé, de terre et de vraies plantes
 ![image](media/vue_ensemble.jpg)
 
 ## Type d'installation
@@ -37,7 +37,7 @@ Immersive
 Scénographique
 
 ## Mise en espace
-Earth Room se situe dans une petite piece a Age of Union. La salle est ferme est comprend une porte en miroir.
+Earth Room se situe dans une petite pièce à Age of Union. La salle est fermé et comprend une porte en miroir.
 ![image](media/plan_earth_room.png)
 
 ## Composantes et techniques
@@ -47,19 +47,20 @@ Earth Room se situe dans une petite piece a Age of Union. La salle est ferme est
 ![image](media/microphone.png)
 
 ## Éléments nécessaires à la mise en exposition
-- Morceaux de l'environnement (Roches, feuilles, plantes)
+- Morceaux de l'environnement (Papier, feuilles, plantes)
 - tabourets
 ![photo](media/capteur.png)
 
 ## Expérience vécue
-Le visiteur est attendu a s'asseoir sur les tabourets et se sentir parti de l'environnement. 
-C'est une experience serene.
+Le visiteur est attendu à s'asseoir sur les tabourets et se reposer dans l'environnement. 
+C'est une expérience sereine. J'ai assez bien apprécié mon temps.
 
 ## Ce qui m'a plus
-Le concept est intéressant et bien executé. Ambiance apaisant et immersif.
+Le concept est intéressant et bien exécuté. Ambiance apaisant et immersif.
+Les matériels utilisés (papiers usé) donne un côté authentique à l'oeuvre.
 
 ## Éléments que j'ai moins apprécié
-Certains tabourets étaient mal positionnés. J'avais des feuilles dans mon visages dans sur quelques sièges. Manque de comfort pour une expérience "relaxante".
+Certains tabourets étaient mal positionnés. J'avais des feuilles dans mon visage sur quelques sièges. Manque de confort pour une expérience "reposante". Emplacements moins évidents.
 
 ## Références:
 <https://kellynunes.com/Earth-Room>
